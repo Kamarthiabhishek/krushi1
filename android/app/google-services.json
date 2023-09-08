@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "568554500246",
+    "project_id": "farmerapp-7eb53",
+    "storage_bucket": "farmerapp-7eb53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568554500246:android:ea14faf09b65387f7152b7",
+        "android_client_info": {
+          "package_name": "com.a4.farmer_app_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568554500246-jdd3813njjlohief8afvpq3fq3596v9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIQ1rvtdZz_v9bkTWxh9VVPtBD_fEYw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568554500246-jdd3813njjlohief8afvpq3fq3596v9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568554500246:android:b1ae4a296c3adb297152b7",
+        "android_client_info": {
+          "package_name": "com.example.krushi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568554500246-jdd3813njjlohief8afvpq3fq3596v9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIQ1rvtdZz_v9bkTWxh9VVPtBD_fEYw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568554500246-jdd3813njjlohief8afvpq3fq3596v9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
